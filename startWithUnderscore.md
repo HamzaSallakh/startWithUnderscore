@@ -1,5 +1,3 @@
-# Stop Renaming Fields — Make Your IDE Suggest `_camelCase` Automatically
-
 As developers, we value consistency and saving time. So when you're injecting dependencies and use `Alt + Enter` to generate a private field, you'd expect your IDE to follow your naming conventions.
 
 But out of the box, it often suggests this:
